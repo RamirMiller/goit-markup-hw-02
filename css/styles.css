@@ -1,12 +1,47 @@
-* {
-    color: blue;
+body {
+    font-family: "Roboto" sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    Spacing: 2%;
+    Line Height: 24px;
+}
+
+ul {
+    list-style: none;
+}
+
+.header {
+    background-color: 2E2F42;
+}
+
+.page-title {
+    color: 000000;
+    font-family: "Roboto" sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    Spacing: 2%;
 }
 
 
-h3 {
-    color: aquamarine;
+.section-title {
+    font-family: "Roboto" sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;    
 }
 
-h1 {
-    color: blueviolet;
+.title {
+    font-family: "Roboto" sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    Spacing: 2%; 
 }
+
+.text {
+    font-family: "Roboto" sans-serif;
+    font-weight: regular;
+    font-size: 14px;
+    letter-spacing: 4%;
+    line-height: 14px;
+}
+
