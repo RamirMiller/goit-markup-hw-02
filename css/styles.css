@@ -36,8 +36,8 @@ button {
   
 }
 
-.logo:hover, 
-.logo:focus {
+.navig a:hover, 
+.navig a:focus {
     color: #404bbf;
 }
 
