@@ -193,11 +193,11 @@ button {
 
 /*===============Section 4 =====================*/
 
-.section_four-portfolio {
+.section-four-portfolio {
     background-color: #F4F4FD;
 }
 
-.section_four-portfolio-title {
+.section-four-portfolio-title {
     text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
@@ -208,19 +208,19 @@ button {
     
 }
 
-.section_four-item {
+.section-four-item {
     background: #fff;
 }
 
-.section_four-item_two {
+.section-four-item_two {
     background: #fff;
 }
 
 
-.section_four-img {
+.section-four-img {
 }
 
-.section_four-title {
+.section-four-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -228,7 +228,7 @@ button {
     color: #2e2f42;
 }
 
-.section_four-text {
+.section-four-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -240,7 +240,7 @@ button {
 .foot {
     background: #2e2f42;
 }
-.section_foot-text {
+.section-foot-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
