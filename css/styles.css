@@ -33,8 +33,12 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    
-    
+  
+}
+
+.logo:hover, 
+.logo:focus {
+    color: #404bbf;
 }
 
 .logo-web-h{
@@ -76,10 +80,10 @@ button {
 
 .page-nav-link {
     font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 
 }
 
@@ -112,6 +116,7 @@ color: #2e2f42;
 .butt:hover,
 .butt:focus {
     color: #404BBF;
+    background-color: #404BBF
 }
             
 
@@ -119,8 +124,7 @@ color: #2e2f42;
 /*===============Section 2 =====================*/
 
 .section2 {
-    width: 1128px;
-    height: 104px;
+    
 }
 
 .visually-hidden {
@@ -179,8 +183,6 @@ color: #2e2f42;
 }
 
 .section3-img {
-    width: 264px;
-    height: 260px;
 }
 
 .team-name {
@@ -227,8 +229,7 @@ color: #2e2f42;
 
 
 .section4-img {
-    width: 360px;
-    height: 420px;
+    
 
 }
 
