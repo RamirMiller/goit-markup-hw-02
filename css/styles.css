@@ -100,7 +100,6 @@ button {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
 }
 
@@ -163,7 +162,7 @@ button {
 
 /*===============Section 3 =====================*/
 
-.section3-team {
+.section_three-team {
     background-color: #F4F4FD;
 }
 
@@ -190,7 +189,6 @@ button {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 
 }
@@ -200,7 +198,6 @@ button {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #434455;
 
     }
@@ -218,7 +215,7 @@ button {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
+    
     color: #2e2f42;
     
 }
