@@ -89,7 +89,7 @@ button {
 
 /*===============Section 1 =====================*/
 
-.section1 {
+.section_oen {
     background: #2e2f42;
 }
 
@@ -123,7 +123,7 @@ button {
 
 /*===============Section 2 =====================*/
 
-.section2 {
+.section_two {
     
 }
 
@@ -141,7 +141,7 @@ button {
     overflow: hidden;
   }
 
-.section2-title {
+.section_two-title {
     font-family: 'Roboto' sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -151,7 +151,7 @@ button {
    
 }
 
-.section2-text {
+.section_two-text {
     font-family: 'Roboto' sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -167,7 +167,7 @@ button {
     background-color: #F4F4FD;
 }
 
-.section3-title {
+.section_three-title {
     font-family: 'Roboto' sans-serif;
     font-weight: 700;
     font-size: 36px;
@@ -178,11 +178,11 @@ button {
     text-transform: capitalize;
 }
 
-.section3-item {
+.section_three-item {
     background: #fff;
 }
 
-.section3-img {
+.section_three-img {
 }
 
 .team-name {
@@ -208,11 +208,11 @@ button {
 
 /*===============Section 4 =====================*/
 
-.section4-portfolio {
+.section_four-portfolio {
     background-color: #F4F4FD;
 }
 
-.section4-portfolio-title {
+.section_four-portfolio-title {
     text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
@@ -223,17 +223,15 @@ button {
     
 }
 
-.section4-item {
+.section_four-item {
     background: #fff;
 }
 
 
-.section4-img {
-    
-
+.section_four-img {
 }
 
-.section4-title {
+.section_four-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -241,7 +239,7 @@ button {
     color: #2e2f42;
 }
 
-.section4-text {
+.section_four-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -253,7 +251,7 @@ button {
 .foot {
     background: #2e2f42;
 }
-.section5-text {
+.section_foot-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
