@@ -4,18 +4,20 @@ body {
     background-color: #FFFFFF;
     font-weight: Regular;
     font-size: 16px;
-    Spacing: 2%;
-    Line Height: 24px;
+    letter-spacing: 2%;
+    line height: 24px;
 }
-
-
 
 ul {
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+}
+/*!===============Header=====================*/
 .header {
-    background-color: 2E2F42;
+    background-color: E7E9FC;
 }
 
 .logo {
@@ -28,14 +30,21 @@ ul {
     color: #4d5ae5;
 }
 
-.logo-web {
-    font-family: "Raleway", sans-serif;
+.logo-web-h{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #2e2f42;    
+}
+.logo-web {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
 
 }
 
@@ -56,15 +65,49 @@ color: #2e2f42;
 
 }
 
-.page-title {
-    color: 000000;
-    font-family: 'Roboto' sans-serif;
-    font-weight: bold;
-    font-size: 56px;
-    Spacing: 2%;
+/*===============Section 1 =====================*/
+
+.section1 {
+    background: #2e2f42;
 }
 
 
+.page-title {
+    font-family: 'Roboto' sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.butt {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff; 
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+
+}
+
+/*===============Section 2 =====================*/
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
 
 .section2-title {
     font-family: 'Roboto' sans-serif;
@@ -90,6 +133,7 @@ color: #2e2f42;
     line-height: 14px;
 }
 
+/*===============Section 3 =====================*/
 .section3-title {
     font-family: 'Roboto' sans-serif;
     font-weight: bold;
@@ -121,6 +165,8 @@ text-align: center;
 color: #434455;
 }
 
+/*===============Section 4 =====================*/
+
 .section4-portfolio-title {
     font-weight: 700;
     font-size: 36px;
@@ -145,7 +191,10 @@ color: #434455;
     color: #434455;
 }
 
-
+/*===============Footer =====================*/
+.foot {
+    background: #2e2f42;
+}
 .section5-text {
     font-weight: 400;
     font-size: 16px;
@@ -153,6 +202,7 @@ color: #434455;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+
 
 
 
