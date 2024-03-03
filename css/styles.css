@@ -31,7 +31,6 @@ button {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #4d5ae5;
   
 }
@@ -46,7 +45,6 @@ button {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #2e2f42;    
 }
 .logo-web {
@@ -54,7 +52,6 @@ button {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #f4f4fd;
 
 }
@@ -101,6 +98,7 @@ button {
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #fff;
+    text-align: center 
 }
 
 .butt {
@@ -221,6 +219,10 @@ button {
 }
 
 .section_four-item {
+    background: #fff;
+}
+
+.section_four-item_two {
     background: #fff;
 }
 
